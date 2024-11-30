@@ -105,7 +105,7 @@
 
   {% include js-selector.html lang=lang %}
 
-  {% if jekyll.environment == 'production' %}
+
     <!-- PWA -->
     {% if site.pwa.enabled %}
       <script
@@ -122,7 +122,7 @@
         {% include analytics/{{ platform }}.html %}
       {% endif %}
     {% endfor %}
-  {% endif %}
+
 
   {% include metadata-hook.html %}
 </head>

@@ -1,4 +1,4 @@
-<!-- markdownlint-disable-next-line -->
+rbenv globalrbenv global<!-- markdownlint-disable-next-line -->
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
